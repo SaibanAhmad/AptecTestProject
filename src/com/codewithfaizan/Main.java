@@ -7,7 +7,7 @@ public class Main {
         System.out.println("This is my project...");
         
         
-        System.out.println("This is the Eidt from Github...");
+        System.out.println("This is the Edit from Github...");
 
     }
 }
